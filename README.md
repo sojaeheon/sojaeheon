@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/sojaeheon/dudungtag/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/sojaeheon/sojaeheon/blob/output/github-snake-dark.svg">
 </div>
