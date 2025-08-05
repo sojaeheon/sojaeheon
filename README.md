@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github.com/sojaeheon/dudungtag/blob/output/github-snake-dark.svg">
+</div>
