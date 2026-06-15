@@ -74,6 +74,7 @@
   <tr>
     <td align="center"><b>Cloud & Infra</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
