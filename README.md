@@ -116,17 +116,17 @@
   <tr>
     <td><b>MODU</b></td>
     <td><a href="https://github.com/jo3mosa/modu">Repository</a></td>
-    <td>AI 기반 투자 의사결정 지원 서비스</td>
+    <td>투자 자동매매 AI agent 플랫폼</td>
   </tr>
   <tr>
     <td><b>Smartfarm</b></td>
     <td><a href="https://github.com/sojaeheon/smartfarm">Repository</a></td>
-    <td>센서 데이터와 AI 진단 기반 스마트팜 서비스</td>
+    <td>병해 진단 및 AI 정보 제공 서비스</td>
   </tr>
   <tr>
     <td><b>딸깍 비즈니스</b></td>
     <td><a href="https://github.com/sojaeheon/click_business">Repository</a></td>
-    <td>상권 분석 기반 창업 의사결정 지원 서비스</td>
+    <td>경제 시뮬레이션 게임 서비스</td>
   </tr>
   <tr>
     <td><b>LOOKie</b></td>
