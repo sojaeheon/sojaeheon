@@ -105,36 +105,6 @@
 
 ---
 
-## 📌 Projects
-
-<table>
-  <tr>
-    <td><b>TravelLens</b></td>
-    <td><a href="https://github.com/travelLens/travel_lens">Repository</a></td>
-    <td>여행 데이터 기반 인사이트 플랫폼</td>
-  </tr>
-  <tr>
-    <td><b>MODU</b></td>
-    <td><a href="https://github.com/jo3mosa/modu">Repository</a></td>
-    <td>투자 자동매매 AI agent 플랫폼</td>
-  </tr>
-  <tr>
-    <td><b>Smartfarm</b></td>
-    <td><a href="https://github.com/sojaeheon/smartfarm">Repository</a></td>
-    <td>병해 진단 및 AI 정보 제공 서비스</td>
-  </tr>
-  <tr>
-    <td><b>딸깍 비즈니스</b></td>
-    <td><a href="https://github.com/sojaeheon/click_business">Repository</a></td>
-    <td>경제 시뮬레이션 게임 서비스</td>
-  </tr>
-  <tr>
-    <td><b>LOOKie</b></td>
-    <td><a href="https://github.com/sojaeheon/LOOKie">Repository</a></td>
-    <td>AI 기반 물류 집품 현장 관제 시스템</td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Stats
