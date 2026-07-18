@@ -132,7 +132,7 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
 
 ---
 
-### 📄 Research Experience
+### 📄 Papers
 
 <table width="100%">
   <tr>
