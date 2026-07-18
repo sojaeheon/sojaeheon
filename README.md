@@ -107,6 +107,36 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
 
 ---
 
+### 🌱 University Activities
+
+<table width="100%">
+  <tr>
+    <td width="24%" valign="top">
+      <b>Mar. 2023 – Dec. 2023</b>
+    </td>
+    <td valign="top">
+      <b>SW중심대학사업단 SW봉사단</b><br/>
+      <sub>
+        고등학생을 대상으로 소프트웨어  교육 부스 운영
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <b>Mar. 2024 – Nov. 2024</b>
+    </td>
+    <td valign="top">
+      <b>AIM 동아리</b><br/>
+      <sub>
+        RAG 기반 농업 정보 제공 서비스를 주제로 아이디어 공모전에 참여
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🏆 Awards
 
 <table width="100%">
