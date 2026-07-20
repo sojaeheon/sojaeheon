@@ -378,8 +378,13 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
         데이터 레이크 구축 과정을 실습하고 있습니다.
       </sub><br/>
       <a href="https://github.com/sojaeheon/kafka-producer">
-        <sub>📁 kafka-producer ↗</sub>
+        <sub>📁 kafka-producer ↗</sub> 
       </a>
+      ,
+      <a href="https://github.com/sojaeheon/kafka_spark_study">
+        <sub>📁 kafka_spark_study ↗</sub> 
+      </a>
+      
     </td>
   </tr>
 
