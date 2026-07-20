@@ -361,9 +361,12 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
         신뢰성·확장성·유지보수성 등 데이터 시스템 설계 개념을 학습하고,
         직접 작성한 설명과 다이어그램으로 정리하고 있습니다.
       </sub><br/>
-      <a href="https://github.com/sojaeheon/DataArchitecture_Study">
-        <sub>📁 DataArchitecture_Study ↗</sub>
-      </a>
+      <sub>
+        📁 Repository:
+        <a href="https://github.com/sojaeheon/DataArchitecture_Study">
+          DataArchitecture_Study ↗
+        </a>
+      </sub>
     </td>
   </tr>
 
@@ -377,14 +380,16 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
         Kafka 기반 데이터 수집과 Spark 스트리밍 처리,
         데이터 레이크 구축 과정을 실습하고 있습니다.
       </sub><br/>
-      <a href="https://github.com/sojaeheon/kafka-producer">
-        <sub>📁 kafka-producer ↗</sub> 
-      </a>
-      ,
-      <a href="https://github.com/sojaeheon/kafka_spark_study">
-        <sub>📁 kafka_spark_study ↗</sub> 
-      </a>
-      
+      <sub>
+        📁 Repositories:
+        <a href="https://github.com/sojaeheon/kafka-producer">
+          kafka-producer ↗
+        </a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/sojaeheon/kafka_spark_study">
+          kafka_spark_study ↗
+        </a>
+      </sub>
     </td>
   </tr>
 
@@ -401,7 +406,6 @@ Docker, AWS 기반 실행·배포 환경을 다뤄왔습니다.
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📫 Contact
